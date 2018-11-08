@@ -1,0 +1,27 @@
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsNEver3.csprojResolveAssemblyReference.cache
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsNEver3.csproj.GenerateResource.Cache
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsNEver3.csprojResolveAssemblyReference.cache
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsNEver3.csproj.GenerateResource.Cache
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\obj\Debug\WindowsFormsNEver3.csprojResolveAssemblyReference.cache
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\obj\Debug\WindowsFormsNEver3.csproj.GenerateResource.Cache

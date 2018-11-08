@@ -1,0 +1,22 @@
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe.config
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Form1.resources
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsNEver3.csproj.GenerateResource.Cache
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.exe
+C:\Users\Nariman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe.config
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.exe
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Form1.resources
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Nariman\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsNEver3.csproj.GenerateResource.Cache
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe.config
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.exe
+C:\Users\Nariman\Desktop\NarimanElimination\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.pdb
+C:\Users\Nariman\Desktop\NarimanElimiation\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe.config
+C:\Users\Nariman\Desktop\NarimanElimiation\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.exe
+C:\Users\Nariman\Desktop\NarimanElimiation\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.pdb
