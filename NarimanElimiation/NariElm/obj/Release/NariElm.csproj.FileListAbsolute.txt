@@ -1,1 +1,10 @@
 C:\Users\Nariman\Desktop\NarimanElimiation\WindowsFormsApplication4\bin\Release\NariElm.exe.config
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\bin\Release\NariElm.exe.config
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\bin\Release\NariElm.exe
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\bin\Release\NariElm.pdb
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Release\NariElm.csprojResolveAssemblyReference.cache
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Release\NariElm.Form1.resources
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Release\NariElm.Properties.Resources.resources
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Release\NariElm.csproj.GenerateResource.Cache
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Release\NariElm.exe
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Release\NariElm.pdb

@@ -675,11 +675,10 @@
             this.label1.Location = new System.Drawing.Point(11, 345);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(553, 30);
+            this.label1.Size = new System.Drawing.Size(421, 45);
             this.label1.TabIndex = 13;
-            this.label1.Text = "          This Program was the Nariman Aryan's final project of  Analysis courses\r\n " +
-                               "          which were held in Fall-Winter 2016 by Dr. F.Houshmand\'s Numerical. " +
-                           "\r\n                                                  AUT December 2016";
+            this.label1.Text = resources.GetString("label1.Text");
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // nosol
             // 

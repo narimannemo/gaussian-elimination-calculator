@@ -7,3 +7,12 @@ C:\Users\Nariman\Desktop\NarimanElimiation\NariElm\obj\Debug\NariElm.Properties.
 C:\Users\Nariman\Desktop\NarimanElimiation\NariElm\obj\Debug\NariElm.csproj.GenerateResource.Cache
 C:\Users\Nariman\Desktop\NarimanElimiation\NariElm\obj\Debug\NariElm.exe
 C:\Users\Nariman\Desktop\NarimanElimiation\NariElm\obj\Debug\NariElm.pdb
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\bin\Debug\NariElm.exe.config
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Debug\NariElm.exe
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Debug\NariElm.pdb
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\bin\Debug\NariElm.exe
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\bin\Debug\NariElm.pdb
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Debug\NariElm.csprojResolveAssemblyReference.cache
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Debug\NariElm.Form1.resources
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Debug\NariElm.Properties.Resources.resources
+C:\Users\Nariman\AppData\Roaming\SPB_Data\NariElm\NarimanElimiation\NariElm\obj\Debug\NariElm.csproj.GenerateResource.Cache

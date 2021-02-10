@@ -568,5 +568,10 @@ namespace NariElm
             solutions.Visible = true;
             solutions.Enabled = true;
         }                                                                            //update 1.5 }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
